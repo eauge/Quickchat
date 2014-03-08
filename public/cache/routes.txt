@@ -1,0 +1,5 @@
+#
+#Tue Mar 04 15:59:40 GMT 2014
+http\://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf=/Users/estanislau/Development/Java/OpenTok/public/cache/refcard-1.pdf
+https\://www.dropbox.com/s/0v522gbfss265zj/2013-01-19%20-%2023%3A06%3A57.jpg=/Users/estanislau/Development/Java/OpenTok/public/cache/2013-01-19 - 23%3A06%3A57-1.jpg
+https\://dl.dropboxusercontent.com/u/23829853/Course%20description.pdf=/Users/estanislau/Development/Java/OpenTok/public/cache/Course description-1.pdf
